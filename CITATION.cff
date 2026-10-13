@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Perturbative Gravity on de Sitter Spacetime: Metric Fluctuations, Gauge Symmetry, Tensor Dynamics, and Quantum Foundations"
+version: 1.0.0
+date-released: 2026-10-13
+license: MIT
+type: software
+authors:
+  - name: "Project authors"
+keywords:
+  - general relativity
+  - de Sitter
+  - cosmological perturbation theory
+  - gravitational waves
+  - gauge symmetry
+abstract: "Symbolic and numerical framework deriving and verifying linearized gravity, gauge structure, tensor dynamics and free-graviton quantization on de Sitter spacetime."

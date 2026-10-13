@@ -1,0 +1,18 @@
+{
+  "geometry/background_evolution": "Scale factor, conformal time and comoving Hubble radius of flat de Sitter space.",
+  "geometry/horizon_crossing": "Horizon crossing $k/(aH)=1$ for three wavenumbers, in e-folds and in conformal time.",
+  "geometry/expansion_truncation_errors": "Truncation error of the inverse-metric and $\\sqrt{-g}$ expansions: slopes $1,2,3$ confirm correct order.",
+  "geometry/curvature_sign_check": "Ricci scalar from the symbolic engine; a flipped Riemann sign is detected.",
+  "gauge/gauge_comparison": "One scalar perturbation in three gauges: $A$ and $\\psi$ change; Bardeen potentials do not.",
+  "perturbations/svt_diagnostics": "Spectral SVT round trip, transversality of the TT part, small-$k$ error amplification.",
+  "dynamics/mode_evolution": "Tensor mode amplitude and oscillation versus $x=k/(aH)$: decay inside, freeze-out outside.",
+  "dynamics/formulation_comparison": "Four formulations of the mode equation agree to the solver tolerance.",
+  "dynamics/phase_space_and_wronskian": "Canonical phase space, mode function and Wronskian conservation.",
+  "spectra/tensor_spectrum": "Tensor power spectrum at fixed conformal time versus k, numerical vs exact.",
+  "spectra/late_time_freezeout": "Freeze-out of the tensor spectrum; departure is $x^2$.",
+  "spectra/initial_state_dependence": "Excited initial states and finite-start-time error as a Bogoliubov mixing.",
+  "spectra/scaling_H_Mpl": "$\\Delta_t^2$ scales as $H^2/M_{\\rm pl}^2$.",
+  "validation/residual_diagnostics": "ODE residual of the stored solution is set by interpolation error (4th order).",
+  "validation/tolerance_and_horizon_crossing": "Error tracks $\\mathrm{rtol}$ and does not spike at horizon crossing.",
+  "validation/solver_methods_and_order": "Solver comparison and fixed-step RK4 order-of-convergence study."
+}

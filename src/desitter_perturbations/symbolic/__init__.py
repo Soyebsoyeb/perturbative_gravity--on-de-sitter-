@@ -1,0 +1,1 @@
+"""Symbolic tensor calculus (SymPy)."""
